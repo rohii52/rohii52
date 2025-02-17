@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohith G!
 
-<!--
-**rohii52/rohii52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Machine Learning Engineer** passionate about **AI, Data Science, and Deep Learning**. With a strong foundation in **Reinforcement Learning, NLP, and Data Analytics**, I love building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+🔹 **Master’s in Data Science - University of Nottingham, UK**  
+🔹 **Bachelor’s in Artificial Intelligence - Amrita Vishwa Vidyapeetham, India**  
+🔹 **Currently working on AI-driven projects and contributing to open-source ML solutions.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 My Interests
+- **Machine Learning & Deep Learning** 🧠
+- **Natural Language Processing (NLP)** 🗣️
+- **Reinforcement Learning & Intelligent Agents** 🤖
+- **Time-Series Forecasting & Data Analytics** 📈
+- **Big Data & Cloud Computing** ☁️
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, R, SQL, C++, Java, Scala  
+- **Libraries & Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Keras, Numpy, Pandas  
+- **Databases:** MySQL, MongoDB, Apache Spark  
+- **Tools & Platforms:** Git, Linux, Docker, AWS, Google Cloud, Power BI, Tableau  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **[Hate Speech Detection using NLP](https://github.com/rohii52/Hate-and-Offensive-Speech-Detection-using-NLP)**
+Developed a machine learning model to detect hate speech using NLP techniques, sentiment analysis, and deep learning models like LSTMs and transformers.
+
+### 🔹 **[Object Detection for Self-Driving Cars](https://github.com/rohii52/Object-Detection)**
+Built an advanced object detection framework for self-driving cars, using **YOLOv5 and RCNN** to enhance environmental awareness under adverse weather conditions.
+
+### 🔹 **[Designing Intelligent Agents - Reinforcement Learning](https://github.com/rohii52/Designing-Intelligent-Agents-Reinforcement-Learning)**
+Built and trained reinforcement learning agents using Q-learning and Deep Q-Networks (DQN) to optimize decision-making tasks in dynamic environments.
+
+### 🔹 **[Breast Cancer Histology Dataset Analysis](https://github.com/rohii52/Breast-Cancer-Analysis)**
+Developed and compared machine learning models including **Random Forests, Decision Trees, and CNN architectures** like **DenseNet v2 and MobileNet v2** for breast cancer detection and classification.
+
+---
+
+## 👯️ Get in Touch
+📧 **Email:** rohithgofficial@gmail.com  
+🌟 **LinkedIn:** [rohii52](https://www.linkedin.com/in/rohii52)  
+💻 **GitHub:** [rohii52](https://github.com/rohii52)  
+🏡 **Based in the UK**
+
+🚀 *Always open to collaborations, new projects, and research opportunities in AI & ML!*
