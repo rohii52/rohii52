@@ -14,6 +14,7 @@ I'm a **Machine Learning Engineer** passionate about **AI, Data Science, and Dee
 - **Natural Language Processing (NLP)** 🗣️
 - **Reinforcement Learning & Intelligent Agents** 🤖
 - **Time-Series Forecasting & Data Analytics** 📈
+- **Computer Vision** 🤖
 - **Big Data & Cloud Computing** ☁️
 
 ---
@@ -47,6 +48,6 @@ Developed and compared machine learning models including **Random Forests, Decis
 📧 **Email:** rohithgofficial@gmail.com  
 🌟 **LinkedIn:** [rohii52](https://www.linkedin.com/in/rohii52)  
 💻 **GitHub:** [rohii52](https://github.com/rohii52)  
-🏡 **Based in the UK**
+🏡 **Based in the London, United Kingdom**
 
 🚀 *Always open to collaborations, new projects, and research opportunities in AI & ML!*
