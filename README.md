@@ -48,6 +48,7 @@ Developed and compared machine learning models including **Random Forests, Decis
 📧 **Email:** rohithgofficial@gmail.com  
 🌟 **LinkedIn:** [rohii52](https://www.linkedin.com/in/rohii52)  
 💻 **GitHub:** [rohii52](https://github.com/rohii52)  
-🏡 **Based in the London, United Kingdom**
+🌐 **My Digital Portfolio:** [rohithgofficial.wixsite.com/rohii52](https://rohithgofficial.wixsite.com/rohii52)  
+🏡 **Based on London, United Kingdom**
 
 🚀 *Always open to collaborations, new projects, and research opportunities in AI & ML!*
