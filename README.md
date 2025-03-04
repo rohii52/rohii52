@@ -33,13 +33,13 @@ I'm a **Machine Learning Engineer** passionate about **AI, Data Science, and Dee
 ### 🔹 **[Hate Speech Detection using NLP](https://github.com/rohii52/Hate-and-Offensive-Speech-Detection-using-NLP)**
 Developed a machine learning model to detect hate speech using NLP techniques, sentiment analysis, and deep learning models like LSTMs and transformers.
 
-### 🔹 **[Object Detection for Self-Driving Cars](https://github.com/rohii52/Object-Detection)**
+### 🔹 **[Object Detection for Self-Driving Cars](https://github.com/rohii52/Object-Detection-for-Self-Driving-Cars-in-Adverse-Weather.)**
 Built an advanced object detection framework for self-driving cars, using **YOLOv5 and RCNN** to enhance environmental awareness under adverse weather conditions.
 
-### 🔹 **[Designing Intelligent Agents - Reinforcement Learning](https://github.com/rohii52/Designing-Intelligent-Agents-Reinforcement-Learning)**
+### 🔹 **[Designing Intelligent Agents - Reinforcement Learning](https://github.com/rohii52/Designing-Intelligent-Agents-Reinforcement-Learning-)**
 Built and trained reinforcement learning agents using Q-learning and Deep Q-Networks (DQN) to optimize decision-making tasks in dynamic environments.
 
-### 🔹 **[Breast Cancer Histology Dataset Analysis](https://github.com/rohii52/Breast-Cancer-Analysis)**
+### 🔹 **[Breast Cancer Histology Dataset Analysis](https://github.com/rohii52/Breast-Cancer-Classification)**
 Developed and compared machine learning models including **Random Forests, Decision Trees, and CNN architectures** like **DenseNet v2 and MobileNet v2** for breast cancer detection and classification.
 
 ---
